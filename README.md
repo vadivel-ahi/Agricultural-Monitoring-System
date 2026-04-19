@@ -9,7 +9,7 @@
 ## 📸 Gallery
 
 <p align="center">
-  <img src="images/agricultural_monitoring_system_project_photo.png" alt="Agricultural Monitoring Rover" width="420"/>
+  <img src="images/agricultural_monitoring_system_project_photo.png" alt="Agricultural Monitoring Rover" width="350"/>
   <br><em>Physical prototype — arch-shaped 3D-printed chassis straddling crop rows, with Raspberry Pi, L298N motor driver, soil moisture sensor, and humidity sensor integrated on the chassis platform</em>
 </p>
 
